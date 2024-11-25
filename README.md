@@ -1,2 +1,2 @@
-# Web-
-誰かのためのHTML・CSS・JS・Reactのハンズオン
+# 概要
+誰かのためのHTML・CSS・JS・Reactのハンズオン（作成中2024/11/25）
